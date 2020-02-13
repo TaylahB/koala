@@ -6,7 +6,7 @@
 # Plus Taylah and Matt (sky substraction)
 version="Version 0.71 - 1st October 2019"
 
-'''Testinggit on terminal'''
+'''Testing on terminal'''
 
 # -----------------------------------------------------------------------------
 # Start timer
